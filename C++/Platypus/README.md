@@ -1,6 +1,6 @@
 # Class Platypus (Documentation)
 ## Installation
-1) Download software environment which support C++ language. Click on [link](https://visualstudio.microsoft.com/downloads/) to download environment which I use.
+1) Download software environment which support C++ language. Click on [link](https://visualstudio.microsoft.com/downloads/) to download environment which I use (Microsoft studio 2019).
 2) Create new C++ Empty project.
   	- Window application (console application).
   	- Create empty project. (At creating click on checkbox).
