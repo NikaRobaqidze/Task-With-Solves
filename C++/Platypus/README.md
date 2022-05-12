@@ -15,13 +15,13 @@
   	- Browse to path where both file have donwloaded.
   	- Select both file and click "Add".
 
-## Documentationiostream - For printing data on screeen.
+## Documentation
 Complex documentation with screens can see in "Documentation.docx" file.
 
 # Description
 Libraries and their usage:
-	- iostream = For printing data on screeen.
-	- iomanip = To display the data in a beautiful format.
-	- random = To select random numbers. To imitate the assumption.
+	- "iostream" For printing data on screeen.
+	- "iomanip" To display the data in a beautiful format.
+	- "random" To select random numbers. To imitate the assumption.
 	
 When creating a class by default the it's variables are assigned values by this way program does not automatically enter an invalid value (from buffer):
