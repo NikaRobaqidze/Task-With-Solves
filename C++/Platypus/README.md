@@ -5,7 +5,7 @@
   	- Window application (console application).
   	- Create empty project. (At creating click on checkbox).
   	- Browse to path, where you want to create your project.
-3) Download from this repository two file:
+3) Download from this directory two file:
   	- Source.cpp
   	- Platypus.h
 4) Move both file to your project "source files".
